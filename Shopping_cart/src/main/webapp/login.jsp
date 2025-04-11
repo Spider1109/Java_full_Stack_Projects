@@ -8,7 +8,6 @@
 <%@include file="includes/head.jsp"%>
 </head>
 <body>
-<h1>Welcome to Nature Mart: the Mart of organic products</h1>
 <div class="container">
 <div class="card w-50 mx-auto my-5">
 <div class ="card-header text-center">User Login</div>
@@ -19,7 +18,7 @@
 <input type = "email" class= "force-control" name="login-email" placeholder="Enter Your Email" required>
 </div>
 <div class = "form-group">
-<label>Email Address</label>
+<label>Password</label>
 <input type = "password" class= "form-control" name= "login-password" placeholder="*********" required>
 </div>
 <div class="text-center">
